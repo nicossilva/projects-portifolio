@@ -1,0 +1,13 @@
+Car-name,price,insurance,hp,aceleration,consumption,confort,steering,design,warranty,weight
+Hyundai HB20 Comfort,84990,2703,75,"14,5","14,6",Ok,electric,Bad,5,993
+Chevrolet Onix 1.0 LT MT,93765,3688,78,"13,3","16,5",Ok,electric,Ok,3,1049
+Peugeot 208 Style 1.0,91990,3314,71,"14,9","15,3",Bad,electric,Good,3,1081
+Volkswagen Polo Track 1.0 MPI,93660,3351,77,"13,4",15,Ok,electric,Good,3,1054
+Citroen C3 XTR 1.0 MT,88990,3234,71,"14,5","14,1",Ok,electric,Good,3,1037
+Citroen C3 Live 1.0 2024,74990,3234,71,"14,5","14,1",Ok,electric,Bad,3,1037
+Citroën Basalt Feel,94990,3078,71,"16,4","14,3",Good,electric,Good,3,1120
+Fiat Mobi Like 1.0 2025,80060,1863,71,15,14,Bad,hydraulic,Bad,3,961
+Fiat Argo Like 1.0 2025,92990,3301,71,"13,4","14,7",Ok,electric,Bad,3,1077
+Honda City Hatch LX 1.5 2025,117500,4676,126,"10,6",15,Good,electric,Good,3,1182
+Renault Kwid Intense 1.0 2025,81790,2406,68,"13,2","15,7",Bad,electric,Bad,3,820
+Renault Kardian Evolution 1.0 2024,113690,2180,125,10,"11,6",Good,electric,Good,3,1190
